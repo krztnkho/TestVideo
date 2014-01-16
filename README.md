@@ -55,3 +55,4 @@
   * VolumeLevel
 
 
+The subitems of the list are subclasses of its parent.
